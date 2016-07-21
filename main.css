@@ -1,0 +1,49 @@
+/* Inserta tu CSS aqui */
+body{
+	padding:30px 180px;
+}
+.borde{
+	border: white 1px solid;
+}
+.area{
+	background-color: #5FB404;
+	padding:10px;
+}
+.cancha{
+	padding: 100px 0px;
+	position: relative;
+}
+.centro{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	left:370px;
+}
+.porteria{
+	width: 100px;
+	height: 200px;
+}
+.linea{
+	display: inline-block;
+}
+.posicion{
+	position: relative;
+}
+.der{
+	right: 0px;
+}
+.absoluto{
+	position: absolute;
+}
+.bolauno{
+	top:5px;
+	left:90px;
+}
+.bolados{
+	top:50px;
+	left:500px;
+}
+.bolatres{
+	top: 280px;
+	left:830px;
+}
